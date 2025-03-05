@@ -104,7 +104,7 @@
   font-size: 44px;
   line-height: 52px;
   font-weight: 400;
-  margin: 0;
+  margin: 0 0 24px;
   color: white;
 }
 
@@ -151,11 +151,12 @@
 .card__text {
   margin: 20px 0 0;
   font-size: 16px;
+  line-height: 24px;
 }
 .card__footer {
   margin: 0;
   font-size: 14px;
   line-height: 20px;
-  color: gray;
+  color: #838383;
   margin-top: auto;
 }
